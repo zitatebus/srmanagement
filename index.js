@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["spielt mit ryze","by ryze"];
+const statusMessages = ["Spielt mit ryze","by ryze"];
 
 
 let currentIndex = 0;
