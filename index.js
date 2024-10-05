@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Xeon RP","LSPD #1"];
+const statusMessages = ["Magic Crimelife","Release soon"];
 
 
 let currentIndex = 0;
